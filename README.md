@@ -56,7 +56,6 @@ I'd love to connect if you share my enthusiasm for healthcare advancements! Let'
     <img width="80" height="50" src="/icons/git.jpg">
     <img width="60" height="50" src="/icons/aws.png">
     <img width="70" height="50" src="/icons/py.png">
-    <img width="80" height="50" src="/icons/vscode-pycharm.png">
     <img width="150" height="50" src="/icons/html_css_js_bootstrap.png">
     <img width="150" height="50" src="/icons/db.jpg">
     <img width="100" height="50" src="/icons/tab_powerbi.png">
